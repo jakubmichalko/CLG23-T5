@@ -5,3 +5,11 @@
     justify-content: center;
     align-items: center;
 }
+
+.con {
+    display: grid;
+    grid-template-rows: 2fr 1fr auto 2fr;
+    flex-direction: row;
+    height: 100vh;
+   
+}
