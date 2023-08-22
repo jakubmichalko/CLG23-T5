@@ -1,5 +1,6 @@
 .mainContainer {
-    background-color: rgb(255, 252, 220);
+    background-color: #072642 ;
+    color: #A7FC00;
     display: flex;
     justify-content: center;
     align-items: center;
