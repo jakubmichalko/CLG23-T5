@@ -8,10 +8,29 @@ h1 {
     text-align: center;
 }
 
-.tutorialyimg {
- height: 200px;
+.text {
+    display:flex;
+    padding-left: 10px;
+    float: right;
+    flex-direction: column;
+    
 }
 
+.tutorialyimg {
+ height: 200px;
+ width: 200px;
+ padding: 7px;
+ float: left;
+}
+
+.noname {
+    display: flex;
+
+    
+}
+
+
+    
 .nadpis { 
     color: #ed217c ;
     display: flex;
@@ -33,4 +52,6 @@ h1 {
     align-items: center;
     justify-content: space-around;
     font-family: 'Roboto Slab', serif;
+    position: sticky;
+    top: 0;
 }
