@@ -1,0 +1,29 @@
+body {
+    background-color: #eec0c6 ;
+    color: #11100f;
+    padding: 0 32px;
+}
+h2 {
+    padding: 0 40px;
+    font-size:30px;
+    margin: 0px;
+}
+h1 {
+    text-align: center;
+    padding: 2%;
+}
+
+p {
+    font-size: 25px;
+}
+
+.mainContainer  {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.paragraphContainer {
+    width: 40%;
+    padding:10px
+}
+
