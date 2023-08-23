@@ -1,0 +1,39 @@
+body {
+    background-color: #eec0c6 ;
+    color: #11100f;
+    padding: 0 32px;
+}
+
+h1 {
+    text-align: center;
+    padding: 2%;
+}
+
+.casy {
+    display: flex;
+
+}
+
+.casy h3 {
+    width: 300px;
+}
+.casy h4 {
+    padding-left: 40px;
+}
+
+.obrazek {
+    height: 300px;
+    width: 300px;
+}
+
+.imgumisteni {
+    display: flex;
+    padding-left: 10px;
+    float: right;
+    flex-direction: column;
+}
+
+.timetable {
+    display: flex;
+    justify-content: space-around;
+}
