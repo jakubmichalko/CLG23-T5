@@ -6,7 +6,7 @@ body {
 h2 {
     padding: 0 1%;
     font-size: 30px;
-    margin: 0px;
+    margin: 10px;
 }
 h1 {
     text-align: center;
@@ -33,5 +33,11 @@ p {
 }
 
 .Container {
+display: flex;
 
+}
+.noname {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px 20px;
 }
