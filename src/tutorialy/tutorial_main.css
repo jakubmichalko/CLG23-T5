@@ -32,7 +32,7 @@ h1 {
 
     
 .nadpis { 
-    color: #ed217c ;
+    color: #eec0c6 ;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -45,8 +45,8 @@ h1 {
 
 .tutnadpis {
 
-    background-color: #c4d6b0;
-    color: #ed217c;
+    background-color: #ed217c;
+    color: #eec0c6;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -61,7 +61,7 @@ h1 {
 }
 
 .menutut {
-    background-color: #f03f8e;
+    background-color: #c4d6b0;
     color: #eec0c6;
     display: flex;
     flex-direction: row;
