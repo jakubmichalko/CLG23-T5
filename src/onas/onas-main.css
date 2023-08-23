@@ -29,7 +29,7 @@ p {
 }
 
 .paragraphContainer {
-    
+
     width: 40%;
     padding:10px
 
@@ -79,7 +79,7 @@ display: flex;
     text-align: center;
     align-items: center;
     font-family: 'Sedgwick Ave Display', cursive;
-    font-size: 45px;
+    font-size: 50px;
 
 }
 
@@ -90,3 +90,11 @@ display: flex;
 #velikostnadpis {
     font-size: 60px;
   }
+
+.footeronas {
+    background-color: #c4d6b0;
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    align-items: center;
+    text-align: center;
+}
