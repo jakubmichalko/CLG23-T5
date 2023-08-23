@@ -4,7 +4,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Roboto Slab', serif;
 }
 
 .con {
@@ -12,6 +11,4 @@
     grid-template-rows: 50px 200px auto 100px;
     flex-direction: row;
     height: 100vh;
-    font-family: 'Roboto Slab', serif;
-   
 }
