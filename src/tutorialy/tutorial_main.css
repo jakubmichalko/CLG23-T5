@@ -1,14 +1,36 @@
 body {
     background-color: #eec0c6 ;
     color: #11100f;
-    padding: 0 32px;
+    margin: 0px;
 }
 
 h1 {
     text-align: center;
-    padding:2%
 }
 
 .tutorialyimg {
  height: 200px;
+}
+
+.nadpis { 
+    color: #ed217c ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 60PX;
+
+}
+
+.menutut {
+    background-color: #f03f8e;
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Roboto Slab', serif;
 }
