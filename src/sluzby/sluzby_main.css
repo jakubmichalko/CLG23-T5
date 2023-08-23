@@ -1,12 +1,29 @@
 body {
     background-color: #eec0c6 ;
     color: #11100f;
-    padding: 0 32px;
+    padding: 0;
+    margin: 0;
 }
 
 h1 {
     text-align: center;
     padding: 2%;
+    font-size: 60px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
 }
 
 .casy {
@@ -36,4 +53,63 @@ h1 {
 .timetable {
     display: flex;
     justify-content: space-around;
+}
+
+.slucon {
+
+    display: grid;
+    grid-template-rows: 50px 200px auto 100px;
+    flex-direction: row;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+.slumenu {
+
+    background-color: #f03f8e;
+    color: #eec0c6;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Roboto Slab', serif;
+    position: sticky;
+    top: 0;
+}
+
+.slunadpis {
+
+    background-color: #c4d6b0;
+    color: #f03f8e;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+#logoimgslu {
+    height: 250px;
+
+}
+
+.slutelo {
+    background-color: #eec0c6;
+    color: black;
+    font-family: 'Roboto Slab', serif;
+   
+}
+
+.slufooter {
+    background-color: #c4d6b0;
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    align-items: center;
+    text-align: center;
 }
