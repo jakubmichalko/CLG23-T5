@@ -40,7 +40,25 @@ h1 {
     align-items: center;
     font-family: 'Sedgwick Ave Display', cursive;
     font-size: 60PX;
+   
+}
 
+.tutnadpis {
+
+    background-color: #eec0c6;
+    color: #ed217c;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: xx-large;
+    
+}
+
+#logoimgtut {
+    height: 250px;
 }
 
 .menutut {
@@ -59,4 +77,16 @@ h1 {
 
 .tutcelek {
     font-family: 'Roboto Slab', serif;
+    display: grid;
+    grid-template-rows: 50px 200px auto 100px;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.tutfooter {
+    background-color: #c4d6b0;
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    align-items: center;
+    text-align: center;
 }
