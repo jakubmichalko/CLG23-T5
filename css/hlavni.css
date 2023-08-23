@@ -10,11 +10,14 @@
     text-align: center;
     align-items: center;
     font-family: 'Sedgwick Ave Display', cursive;
-    font-size: xx-large;
     position: sticky;
     top: 50px;
     
 } 
+
+#velikostnadpis {
+  font-size: 60px;
+}
 
 .menu {
     background-color: #c4d6b0;

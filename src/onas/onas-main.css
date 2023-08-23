@@ -1,36 +1,40 @@
 body {
     background-color: #eec0c6 ;
     color: #11100f;
-    padding: 0 32px;
+    padding: 0;
+    margin: 0;
 }
 h2 {
     padding: 0 1%;
-    font-size: 30px;
+    font-size: 25px;
     margin: 10px;
+
 }
 h1 {
     text-align: center;
     padding: 2%;
+    font-family: 'Roboto Slab', serif;
 }
 
 p {
-    font-size: 25px;
+    font-size: 20px;
+    margin: 10px;
 }
 
 .mainContainer  {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
-    
+      
 }
 
 .paragraphContainer {
+    
     width: 40%;
     padding:10px
+
 }
-.font-i {
-    font-style: italic;
-}
+   
 
 .Container {
 display: flex;
@@ -41,3 +45,48 @@ display: flex;
     justify-content: flex-end;
     padding: 0px 20px;
 }
+
+.onascon {
+    display: grid;
+    grid-template-rows: 50px 200px auto 100px;
+    flex-direction: row;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
+
+.onasmenu {
+    background-color: #f03f8e;
+    color: #eec0c6;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Roboto Slab', serif;
+    position: sticky;
+    top: 0; 
+}
+
+.nadpisonas {
+
+    background-color: #eec0c6;
+    color: #ed217c;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 45px;
+
+}
+
+#logoimgonas {
+    height: 250px;
+}
+
+#velikostnadpis {
+    font-size: 60px;
+  }
