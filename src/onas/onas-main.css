@@ -18,7 +18,7 @@ h1 {
 }
 
 p {
-    font-size: 20px;
+    font-size: 25px;
     margin: 10px;
 }
 
@@ -38,13 +38,14 @@ p {
    
 
 .Container {
-display: flex;
-
+    display: flex;
+    padding: 20px;
 }
 .noname {
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     padding: 0px 20px;
+    flex-direction: column;
 }
 
 .onascon {
@@ -94,9 +95,10 @@ display: flex;
   }
 
 .footeronas {
-    background-color: #eec0c6;
+    background-color: #c4d6b0;
     color: black;
     font-family: 'Roboto Slab', serif;
     align-items: center;
     text-align: center;
+    
 }
