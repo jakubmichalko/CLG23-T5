@@ -1,3 +1,4 @@
+
 body {
     background-color: #eec0c6 ;
     color: #11100f;
@@ -13,7 +14,7 @@ h2 {
 h1 {
     text-align: center;
     padding: 2%;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Sedgwick Ave Display', cursive;
 }
 
 p {
@@ -71,7 +72,7 @@ display: flex;
 
 .nadpisonas {
 
-    background-color: #eec0c6;
+    background-color: #c4d6b0;
     color: #ed217c;
     display: flex;
     flex-direction: row;
