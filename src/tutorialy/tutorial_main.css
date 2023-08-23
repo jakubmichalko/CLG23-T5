@@ -45,6 +45,7 @@ h1 {
 
 .menutut {
     background-color: #f03f8e;
+    color: #eec0c6;
     display: flex;
     flex-direction: row;
     height: 60px;
