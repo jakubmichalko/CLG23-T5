@@ -34,6 +34,22 @@ p {
     width: 40%;
     padding: 30px;
 
+    background-color: #c4d6b09b;
+    border: 1000px;
+    border: 4px solid #ed217c;
+    padding: 20px;
+    width: 1fr;
+    display: flex;
+    grid-template-columns: auto;
+
+}
+
+#zamest {
+    column-count: 3;
+    column-gap: 5%;
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 5%;
 }
 
    
