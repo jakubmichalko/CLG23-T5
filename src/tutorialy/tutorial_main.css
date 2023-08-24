@@ -23,10 +23,13 @@ h1 {
  float: left;
 }
 
-.noname {
+.ramecek {
     display: flex;
     font-family: 'Roboto Slab', serif; 
-    
+    border-style: solid;
+    border-color: #ed217c;
+    margin: 10px;
+    background-color: #c4d6b09b;
 }
 
 
@@ -58,6 +61,7 @@ h1 {
 
 #logoimgtut {
     height: 250px;
+    padding-right: 20px;
 }
 
 .menutut {
