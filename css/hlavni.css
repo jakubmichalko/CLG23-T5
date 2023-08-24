@@ -6,7 +6,7 @@
     color: #eec0c6;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     text-align: center;
     align-items: center;
     font-family: 'Sedgwick Ave Display', cursive;
@@ -17,6 +17,7 @@
 
 #velikostnadpis {
   font-size: 60px;
+  padding-left:10% ;
 }
 
 .menu {
@@ -54,7 +55,7 @@
 
 #logoimg {
     height: 250px;
-    padding-right: 20px;
+    padding-right: 3%;
 }
 
 #ulsoutez {

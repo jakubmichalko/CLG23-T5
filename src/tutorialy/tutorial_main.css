@@ -43,6 +43,7 @@ h1 {
     align-items: center;
     font-family: 'Sedgwick Ave Display', cursive;
     font-size: 60PX;
+    padding-left:10% ;
    
 }
 
@@ -52,7 +53,7 @@ h1 {
     color: #eec0c6;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     text-align: center;
     align-items: center;
     font-family: 'Sedgwick Ave Display', cursive;
@@ -61,8 +62,7 @@ h1 {
 
 #logoimgtut {
     height: 250px;
-    padding-right: 20px;
-    padding-left: 205.5px;
+    padding-right: 3%;
 }
 
 .menutut {
