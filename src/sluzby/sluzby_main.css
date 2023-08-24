@@ -17,28 +17,35 @@ h2 {
 }
 
 h3 {
-    text-align: center;
-    font-size: 30px;
+    text-align: left;
+    font-size: 25px;
+    padding-left: 30px;
+    margin: 0px;
 }
 
 p {
     text-align: center;
-    font-size: 25px;
+    font-size:20px;
+    margin: 10px;
 }
 
 .casy {
     display: flex;
+    margin: 30px;
 
 }
 
 .casy h3 {
     width: 300px;
+    
 }
 .casy h4 {
     padding-left: 40px;
+    font-size:18px;
+    margin: 0px;
 }
 
-.obrazek {
+.obrazek {s
     height: 300px;
     width: 300px;
 }
@@ -114,4 +121,10 @@ p {
     font-family: 'Roboto Slab', serif;
     align-items: center;
     text-align: center;
+}
+.text{
+    text-align: center;
+    font-size: 25px;
+    padding: 0px;
+    margin: 0px;
 }
