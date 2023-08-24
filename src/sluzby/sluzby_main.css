@@ -69,7 +69,7 @@ p {
 
 .slumenu {
 
-    background-color: #f03f8e;
+    background-color: #c4d6b0;
     color: #eec0c6;
     display: flex;
     flex-direction: row;
@@ -84,8 +84,8 @@ p {
 
 .slunadpis {
 
-    background-color: #c4d6b0;
-    color: #f03f8e;
+    background-color: #f03f8e;
+    color: #eec0c6;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
