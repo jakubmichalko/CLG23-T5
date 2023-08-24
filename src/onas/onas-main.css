@@ -49,9 +49,21 @@ p {
     column-gap: 5%;
     display: flex;
     flex-wrap: nowrap;
-    margin: 5%;
+    margin: 2%;
 }
 
+#hist {
+    margin: 2%;
+}
+
+#ramslu {
+    margin: 2%; 
+    background-color: #c4d6b09b;
+    border: 1000px;
+    border: 4px solid #ed217c;
+    padding: 2%;
+
+}
    
 
 .Container {
